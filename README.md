@@ -2,18 +2,6 @@
 <h3 align="center">AI Engineer | LLM Evaluation · Agentic Systems · Research-to-Production ML</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krtanay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tanay.kumar@mail.polimi.it">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://scholar.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-</p>
-
-<p align="center">
   <em>🏆 EMNLP 2023 Outstanding Paper Award Winner</em>
 </p>
 
@@ -23,11 +11,15 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 MSc Computer Science Engineering Student at **Politecnico di Milano**, Milan, Italy
-- 🤖 Research Intern at **Data Science Lab, PoliMi**, evaluating personality-conditioned gender bias in LLMs.
-- 🚀 Previously shipped ML solutions at **Watershed Organisation Trust (WOTR)** and **Athena Studios**.
-- 🔬 Co-authored the **EMNLP 2023 Outstanding Paper** on AI-Generated Text Detection.
-- 🌱 I’m currently focused on **Agentic Systems**, **RAG**, and **LLM Alignment/Evaluation**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2396ED&center=true&vCenter=true&width=435&lines=AI+Engineer+🚀;Research+Intern+🤖;Data+Scientist+📊;Open+Source+Contributor+🌍" alt="Typing SVG" />
+</p>
+
+- 🎓 MSc Computer Science Engineering Student at **Politecnico di Milano**, Milan, Italy <img src="https://img.shields.io/badge/Milan_Italy-000000?style=flat-square&logo=google-maps&logoColor=white" height="15" />
+- 🤖 Research Intern at **Data Science Lab, PoliMi**, evaluating personality-conditioned gender bias in LLMs. <img src="https://img.shields.io/badge/LLMs-FF9900?style=flat-square&logo=openai&logoColor=white" height="15" />
+- 🚀 Previously shipped ML solutions at **Watershed Organisation Trust (WOTR)** and **Athena Studios**. <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="15" /> <img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square&logo=xgboost&logoColor=white" height="15" />
+- 🔬 Co-authored the **EMNLP 2023 Outstanding Paper** on AI-Generated Text Detection. <img src="https://img.shields.io/badge/Research-000000?style=flat-square&logo=googlescholar&logoColor=white" height="15" />
+- 🌱 I’m currently focused on **Agentic Systems**, **RAG**, and **LLM Alignment/Evaluation**. <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" height="15" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="15" />
 
 <br>
 
@@ -84,10 +76,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krtanay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanay's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtanay&theme=tokyonight&hide_border=true" alt="Tanay's GitHub Streak" />
-</p>
