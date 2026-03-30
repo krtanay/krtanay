@@ -1,16 +1,93 @@
 <h1 align="center">Hi 👋, I'm Tanay Kumar</h1>
-<h3 align="center">A Curious Explorer in Artificial Intelligence and Technology</h3>
+<h3 align="center">AI Engineer | LLM Evaluation · Agentic Systems · Research-to-Production ML</h3>
 
-<img align="right" alt="Coding" width="400" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed8cf4bb-53f2-40ba-8cb7-6f2be9bba7f8_480x480.gif">
-
-- 🌱 I’m literally learning **everything**
-
-- 📫 How to reach me **tanay6602@gmail.com**
-
-- ⚡ Fun fact **I am a noob**
-
-<p align="left">
+<p align="center">
+  <a href="https://linkedin.com/in/krtanay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tanay.kumar@mail.polimi.it">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://scholar.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <em>🏆 EMNLP 2023 Outstanding Paper Award Winner</em>
+</p>
+
+<hr>
+
+<img align="right" alt="AI Brain GIF" width="300" src="https://cdn.dribbble.com/users/1000632/screenshots/3641215/ai_brain.gif" style="border-radius: 10px;">
+
+### 👨‍💻 About Me
+
+- 🎓 MSc Computer Science Engineering Student at **Politecnico di Milano**, Milan, Italy
+- 🤖 Research Intern at **Data Science Lab, PoliMi**, evaluating personality-conditioned gender bias in LLMs.
+- 🚀 Previously shipped ML solutions at **Watershed Organisation Trust (WOTR)** and **Athena Studios**.
+- 🔬 Co-authored the **EMNLP 2023 Outstanding Paper** on AI-Generated Text Detection.
+- 🌱 I’m currently focused on **Agentic Systems**, **RAG**, and **LLM Alignment/Evaluation**.
+
+<br>
+
+### 🛠️ Technical Arsenal
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Deployment & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💼 Experience Highlights
+
+- **Research Intern — Thesis** @ *Data Science Lab, Politecnico di Milano* (Jul '25 - Mar '26)
+  - Building HEXBENCH, a multilingual benchmark of 1,800+ LLM narratives to evaluate trait-conditioned gender bias across 30+ languages.
+- **Applied Research Intern** @ *Watershed Organisation Trust (WOTR)* (Nov '24 - Feb '25)
+  - Engineered ML models (XGBoost, RF) on 150K+ meteorological records for crop pest prediction, aiding smallholder farmers in Maharashtra.
+- **Data Scientist Intern** @ *Athena Studios* (Sep '24 - Nov '24)
+  - Boosted data pipeline throughput by 20% and automated EU EIA Directive compliance processes.
+- **AI Research Intern** @ *University of South Carolina* (Sep '22 - Jul '23)
+  - Benchmarked 6 transformer architectures for AI text detection, resulting in an **EMNLP 2023 Outstanding Paper Award**.
+
+---
+
+### 🚀 Featured Projects
+
+*   **[MedRAG-Assist](https://github.com/krtanay/medrag-assist)**: Grounded medical Q&A system eliminating hallucinated citations via FAISS vector search, LangChain, and Sentence-Transformers. Deployed scalable inference on AWS App Runner via Docker and Jenkins CI/CD.
+*   **[MultiMinds](https://github.com/krtanay/multiminds)**: A distributed 4-agent LLM reasoning framework built with LangGraph and FastAPI, minimizing hallucinations via Tavily live web search grounding. Deployed to AWS ECS.
+
+---
+
+### 📄 Notable Publications
+
+- 🏆 **[Counter Turing Test (CT²): AI-Generated Text Detection is Not as Easy as You May Think](https://arxiv.org/abs/2310.05030)** (Outstanding Paper Award — EMNLP 2023)
+- 🏥 **[ML-based IoT Framework for Diabetes Detection](https://www.researchsquare.com/article/rs-3024165/v1)** (Springer WPC 2023)
+- ❤️ **[IoT-Enabled Heart Disease Detection System Using KNN](https://ieeexplore.ieee.org/document/9984506)** (IEEE ICCNT 2022)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krtanay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanay's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krtanay&theme=tokyonight&hide_border=true" alt="Tanay's GitHub Streak" />
+</p>
