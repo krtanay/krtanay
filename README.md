@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2396ED&center=true&vCenter=true&width=435&lines=AI+Engineer+🚀;Research+Intern+🤖;Data+Scientist+📊;Open+Source+Contributor+🌍" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2396ED&center=true&vCenter=true&width=435&lines=AI+Engineer;Research+Intern;Data+Scientist;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
 - 🎓 MSc Computer Science Engineering Student at **Politecnico di Milano**, Milan, Italy <img src="https://img.shields.io/badge/Milan_Italy-000000?style=flat-square&logo=google-maps&logoColor=white" height="15" />
